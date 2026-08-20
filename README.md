@@ -9,11 +9,14 @@ The structured job requirements and candidate resume are then compared by an LLM
 Tech Stack: Python, Groq API, LLM (openai/gpt-oss-120b), Pydantic, pypdf, python-docx, python-dotenv, uv.
 
 Project structure:
-
 llm_project1/
 ├── main.py
 ├── resumes/
+│   ├── 1_resume.docx
+│   ├── 2_resume.pdf
+│   └── 3_resume.docx
 ├── src/
+│   └── ...
 ├── pyproject.toml
 ├── uv.lock
 ├── .python-version
