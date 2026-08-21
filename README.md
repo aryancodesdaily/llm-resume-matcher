@@ -19,6 +19,7 @@ llm_project1/
 ├── .gitignore
 ├── .python-version
 ├── README.md
+├── job_description.txt
 ├── main.py
 ├── pyproject.toml
 └── uv.lock
